@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "530173325643",
+    "project_id": "login-f5884",
+    "storage_bucket": "login-f5884.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530173325643:android:1fed3713bff78b6be6b8ce",
+        "android_client_info": {
+          "package_name": "mx.itson.edu.practica10"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5BF-ixnLWTOFl3FZhWvOaLFhIZZGqXTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
